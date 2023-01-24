@@ -1,5 +1,5 @@
 # WeightTracker React demostration
-This is a special project designed to learn more about the functionality of React.
+(This is a special project designed to learn more about the functionality of React.)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
